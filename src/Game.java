@@ -139,7 +139,7 @@ public class Game {
 	System.out.print('\n');
 	
 	if(userGuess == sportsCar) {
-	    System.out.println("Congratualtions, enjoy your brand new soprtscar!");
+	    System.out.println("Congratulations! Enjoy your brand new soprtscar!");
 	} else {
 	    System.out.println("Unlucky. You go home with a goat.");
 	}
